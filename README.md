@@ -1,6 +1,7 @@
-# google_fonts_all_lists
+# Google Fonts Viewer
 
-A new Flutter project.
+Flutter project to view the list of all available fonts provided by the google fonts package as there is no simple way to view all list of google fonts.
+This project list all the list and applies the fonts and some customization.
 
 ## Getting Started
 
